@@ -1,0 +1,7 @@
+*.pt
+*.xml
+*.csv
+*.gz
+data/
+processed/
+__pycache__/
